@@ -1,22 +1,12 @@
-# Exercise 00 Template 
-### Deadline 01.01.2022
+# Exercise 02 Strings 
+### Deadline 24.03.2022
 
-Program some cool stuff
+Learn and use strings.
 
-## Task 1
-Some task
+The tasks are directly in the code in `application/PlayWithStrings`.
+Please follow the TODOs precisely. You can make additional methods as you like. You will not need to make new classes.
 
-## Task 2
-More work todo 😥
+---
+Stick to a clean style. Keep the naming conventions in mind and do not repeat yourself.
 
-<br>
-
-> This might be helpful
-
-~~~java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
-~~~
+> Before you start coding take a look at the API documentation.
